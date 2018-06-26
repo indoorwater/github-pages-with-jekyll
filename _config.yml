@@ -13,3 +13,8 @@ github_username:  notyour-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
+title: "tight"
+date: 2018-06-26
+---
