@@ -1,7 +1,3 @@
----
-title: "tight"
-date: 2018-06-26
----
 title: Bogged down in a blogs
 author: God User
 email: notyour-email@domain.com
@@ -17,4 +13,3 @@ github_username:  notyour-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
----
